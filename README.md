@@ -86,12 +86,12 @@ the miner.py (like the severity, facility and time of each log).
 ## deployement 
 
 An attacker wants to get privileged access with the wrong password.
-![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/blob/master/src/readme-images/1.png"image 1")
-![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/src/readme-images/2.png"image 2")
+![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/blob/master/src/readme-images/1.png "image 1")
+![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/blob/master/src/readme-images/2.png "image 2")
 The log is then added in the filename.txt as follows:
-![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/src/readme-images/1.png"image 1")
+![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/blob/master/src/readme-images/3.png "image 3")
 After setting up our network as explained previously, the python script mine.py will add new blocks
-4
+![alt text](https://github.com/nourmami/SysLog-Blockchain-TrackingSystem/blob/master/src/readme-images/4.png "image 4")
 of system Logs into our blockchain (invoking chaincode queries).
 
 
